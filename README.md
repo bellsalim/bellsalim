@@ -44,8 +44,8 @@ object **SEU NOME** {
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[instagram]: https://www.instagram.com/belll.phegor/
+[linkedin]: https://www.linkedin.com/in/maria-isabel-salim-mariotti-93b53a19b/
 <br>
 
 #### Rede Sociais!
