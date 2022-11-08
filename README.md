@@ -1,13 +1,15 @@
 ### Olá! Eu sou a Bell!
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-</p>
+
 ELU/DELU
 
 Completamente apaixonada por programação,
 
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
