@@ -5,7 +5,7 @@ ELU/DELU
 Completamente apaixonada por programação,
 
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazerem o mesmo.
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
