@@ -15,7 +15,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazerem o mesmo.
 ```kotlin
 
  val acknowledgements = "Análise e desenvolvimento de sistemas"
- 
+ val name = "Maria Isabel Salim Mariotti"
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("Java", "Python", "JavaScript", "C", "React", "PHP", "HTML", "SQL") 
 }
